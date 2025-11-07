@@ -1,5 +1,4 @@
 # Assignment-
-Home work
 <!DOCTYPE html>
 <html>
 
@@ -26,7 +25,7 @@ Home work
     </script>
     
     
-  </script>
+
   
 </body>
 
