@@ -26,7 +26,7 @@ Home work
     </script>
     
     
-  </script>
+  
   
 </body>
 
