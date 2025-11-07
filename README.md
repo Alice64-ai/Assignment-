@@ -1,2 +1,33 @@
 # Assignment-
 Home work
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+</head>
+
+<body>
+  <script>
+      let names = ["Abdi", "Ali"];
+        names.push("Ahmed");
+        names.unshift("Haashi");
+        names.pop();
+        console.log(names);
+
+        let a = [1, 2];
+        let b = [3, 4];
+        b.unshift(...a);
+        b.shift();
+        b.push(5);
+        console.log(b);
+    </script>
+    
+    
+  </script>
+  
+</body>
+
+</html>
